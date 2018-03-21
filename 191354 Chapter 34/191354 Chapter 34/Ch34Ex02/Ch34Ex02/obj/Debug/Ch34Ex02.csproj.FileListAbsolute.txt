@@ -1,0 +1,13 @@
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\bin\Debug\Ch34Ex02.exe
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\bin\Debug\Ch34Ex02.pdb
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\Window1.baml
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\Window1.g.cs
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\App.g.cs
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\Ch34Ex02_MarkupCompile.cache
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\Ch34Ex02.g.resources
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\Ch34Ex02.Properties.Resources.resources
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\Ch34Ex02.csproj.GenerateResource.Cache
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\Ch34Ex02.exe
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\Ch34Ex02.pdb
+C:\BegVCSharp\Chapter34\Ch34Ex02\Ch34Ex02\obj\Debug\GeneratedInternalTypeHelper.g.cs

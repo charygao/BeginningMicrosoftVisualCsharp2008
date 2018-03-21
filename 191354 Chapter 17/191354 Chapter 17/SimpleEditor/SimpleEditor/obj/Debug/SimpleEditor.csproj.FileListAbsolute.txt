@@ -1,0 +1,8 @@
+c:\BegVCSharp\Chapter17\SimpleEditor\SimpleEditor\obj\Debug\ResolveAssemblyReference.cache
+c:\BegVCSharp\Chapter17\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.Properties.Resources.resources
+c:\BegVCSharp\Chapter17\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.SimpleEditorForm.resources
+c:\BegVCSharp\Chapter17\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.csproj.GenerateResource.Cache
+c:\BegVCSharp\Chapter17\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.exe
+c:\BegVCSharp\Chapter17\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.pdb
+c:\BegVCSharp\Chapter17\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.exe
+c:\BegVCSharp\Chapter17\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.pdb

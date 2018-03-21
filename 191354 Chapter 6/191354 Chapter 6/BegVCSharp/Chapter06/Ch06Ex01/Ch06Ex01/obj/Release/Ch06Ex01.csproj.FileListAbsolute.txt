@@ -1,0 +1,1 @@
+C:\BegVCSharp\Chapter06\Ch06Ex01\Ch06Ex01\obj\Release\ResolveAssemblyReference.cache

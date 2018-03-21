@@ -1,0 +1,5 @@
+c:\BegVCSharp\WebServices\WebServiceSample\WebServiceSample\bin\WebServiceSample.dll
+c:\BegVCSharp\WebServices\WebServiceSample\WebServiceSample\bin\WebServiceSample.pdb
+c:\BegVCSharp\WebServices\WebServiceSample\WebServiceSample\obj\Debug\ResolveAssemblyReference.cache
+c:\BegVCSharp\WebServices\WebServiceSample\WebServiceSample\obj\Debug\WebServiceSample.dll
+c:\BegVCSharp\WebServices\WebServiceSample\WebServiceSample\obj\Debug\WebServiceSample.pdb

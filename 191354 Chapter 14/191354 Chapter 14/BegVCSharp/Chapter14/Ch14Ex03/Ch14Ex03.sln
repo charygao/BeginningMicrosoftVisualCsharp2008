@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch14Ex03", "Ch14Ex03\Ch14Ex03.csproj", "{3325C6EF-DF3D-43CE-ABE2-C046DCC12568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionLib", "ExtensionLib\ExtensionLib.csproj", "{3CC6885A-869F-4E88-BF74-D2AF30BFBD87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3325C6EF-DF3D-43CE-ABE2-C046DCC12568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3325C6EF-DF3D-43CE-ABE2-C046DCC12568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3325C6EF-DF3D-43CE-ABE2-C046DCC12568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3325C6EF-DF3D-43CE-ABE2-C046DCC12568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC6885A-869F-4E88-BF74-D2AF30BFBD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC6885A-869F-4E88-BF74-D2AF30BFBD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC6885A-869F-4E88-BF74-D2AF30BFBD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC6885A-869F-4E88-BF74-D2AF30BFBD87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

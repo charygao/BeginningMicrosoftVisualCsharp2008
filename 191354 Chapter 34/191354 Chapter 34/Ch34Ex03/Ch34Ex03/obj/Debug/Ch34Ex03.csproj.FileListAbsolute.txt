@@ -1,0 +1,24 @@
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\bin\Debug\Ch34Ex03.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\bin\Debug\Ch34Ex03.pdb
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\obj\Debug\Window1.baml
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\obj\Debug\Window1.g.cs
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\obj\Debug\App.g.cs
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\obj\Debug\Ch34Ex03_MarkupCompile.cache
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\obj\Debug\Ch34Ex03.g.resources
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\obj\Debug\Ch34Ex03.Properties.Resources.resources
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\obj\Debug\Ch34Ex03.csproj.GenerateResource.Cache
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\obj\Debug\Ch34Ex03.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch34Ex03\obj\Debug\Ch34Ex03.pdb
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\obj\Debug\Ch34Ex03.exe
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\obj\Debug\Ch34Ex03.pdb
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\bin\Debug\Ch34Ex03.exe
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\bin\Debug\Ch34Ex03.pdb
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\obj\Debug\Window1.baml
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\obj\Debug\Window1.g.cs
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\obj\Debug\App.g.cs
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\obj\Debug\Ch34Ex03_MarkupCompile.cache
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\obj\Debug\Ch34Ex03.g.resources
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\obj\Debug\Ch34Ex03.Properties.Resources.resources
+C:\BegVCSharp\Chapter34\Ch34Ex03\Ch34Ex03\obj\Debug\Ch34Ex03.csproj.GenerateResource.Cache

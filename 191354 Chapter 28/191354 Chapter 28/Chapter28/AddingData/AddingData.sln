@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio Codename Orcas
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingData", "AddingData\AddingData.csproj", "{A6013B6D-0B11-4E02-BE36-A76FE6291AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6013B6D-0B11-4E02-BE36-A76FE6291AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6013B6D-0B11-4E02-BE36-A76FE6291AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6013B6D-0B11-4E02-BE36-A76FE6291AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6013B6D-0B11-4E02-BE36-A76FE6291AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\BegVCSharp\Chapter24\CommaValues\CommaValues\bin\Debug\CommaValues.exe
+C:\BegVCSharp\Chapter24\CommaValues\CommaValues\bin\Debug\CommaValues.pdb
+C:\BegVCSharp\Chapter24\CommaValues\CommaValues\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter24\CommaValues\CommaValues\obj\Debug\CommaValues.exe
+C:\BegVCSharp\Chapter24\CommaValues\CommaValues\obj\Debug\CommaValues.pdb

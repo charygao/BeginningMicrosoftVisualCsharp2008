@@ -1,0 +1,17 @@
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\bin\Release\Ch34Ex01Web.exe.manifest
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\bin\Release\Ch34Ex01Web.xbap
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\bin\Release\Ch34Ex01Web.exe
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\bin\Release\Ch34Ex01Web.pdb
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Page1.baml
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Page1.g.cs
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\App.g.cs
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Ch34Ex01Web_MarkupCompile.cache
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Ch34Ex01Web.g.resources
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Ch34Ex01Web.Properties.Resources.resources
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Ch34Ex01Web.csproj.GenerateResource.Cache
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Ch34Ex01Web.TrustInfo.xml
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Ch34Ex01Web.exe.manifest
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Ch34Ex01Web.xbap
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Ch34Ex01Web.exe
+C:\BegVCSharp\Chapter34\Ch34Ex01Web\Ch34Ex01Web\obj\Release\Ch34Ex01Web.pdb

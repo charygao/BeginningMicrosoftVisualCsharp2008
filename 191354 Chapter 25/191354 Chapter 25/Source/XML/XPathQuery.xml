@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<books>
+  <book pages="944">
+    <title>Beginning Visual C#</title>
+    <author>Karli Watson</author>
+    <author>Jacob Hammer Pedersen</author>
+    <author>Christian Nagel</author>
+    <author>David Espinosa</author>
+    <author>Zach Greenvoss</author>
+    <author>Jon D. Reid</author>
+    <author>Matthew Reynolds</author>
+    <author>Morgan Skinner</author>
+    <author>Eric White</author>
+    <code>7582</code>
+  </book>
+  <book pages="1000">
+    <title>Beginning Visual C# 2008</title>
+    <author>Karli Watson</author>
+    <author>Jacob Hammer Pedersen</author>
+    <author>Christian Nagel</author>
+    <author>Jon D. Reid</author>
+    <author>Morgan Skinner</author>
+    <author>Eric White</author>
+    <code>1234567890</code>
+  </book>
+  <book pages="1272">
+    <title>Professional C# 2nd Edition</title>
+    <author>Simon Robinson</author>
+    <author>Scott Allen</author>
+    <author>Ollie Cornes</author>
+    <author>Jay Glynn</author>
+    <author>Zach Greenvoss</author>
+    <author>Burton Harvey</author>
+    <author>Christian Nagel</author>
+    <author>Morgan Skinner</author>
+    <author>Karli Watson</author>
+    <code>7043</code>
+  </book>
+</books>

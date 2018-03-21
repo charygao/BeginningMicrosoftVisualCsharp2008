@@ -1,0 +1,5 @@
+c:\BegVCSharp\WebServices\WebServiceSample\ASPNETClient\bin\ASPNETClient.dll
+c:\BegVCSharp\WebServices\WebServiceSample\ASPNETClient\bin\ASPNETClient.pdb
+c:\BegVCSharp\WebServices\WebServiceSample\ASPNETClient\obj\Debug\ResolveAssemblyReference.cache
+c:\BegVCSharp\WebServices\WebServiceSample\ASPNETClient\obj\Debug\ASPNETClient.dll
+c:\BegVCSharp\WebServices\WebServiceSample\ASPNETClient\obj\Debug\ASPNETClient.pdb

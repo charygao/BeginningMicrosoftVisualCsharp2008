@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<books schemalocation="file://C:\Beginning Visual C#\Chapter 23\books.xsd">
+  <book>
+    <title>Beginning Visual C#</title>
+    <author>Karli Watson</author>
+    <code>7582</code>
+  </book>
+  <book Pages="1000">
+    <!--This is the book you are reading-->
+    <title>Beginning Visual C# 2008</title>
+    <author>Karli Watson et al</author>
+    <code>1234567890</code>
+  </book>
+</books>

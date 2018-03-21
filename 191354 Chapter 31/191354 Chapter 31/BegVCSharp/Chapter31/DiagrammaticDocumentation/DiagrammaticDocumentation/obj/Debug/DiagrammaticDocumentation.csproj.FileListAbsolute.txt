@@ -1,0 +1,6 @@
+C:\BegVCSharp\Chapter31\DiagrammaticDocumentation\DiagrammaticDocumentation\bin\Debug\DiagrammaticDocumentation.XML
+C:\BegVCSharp\Chapter31\DiagrammaticDocumentation\DiagrammaticDocumentation\bin\Debug\DiagrammaticDocumentation.dll
+C:\BegVCSharp\Chapter31\DiagrammaticDocumentation\DiagrammaticDocumentation\bin\Debug\DiagrammaticDocumentation.pdb
+C:\BegVCSharp\Chapter31\DiagrammaticDocumentation\DiagrammaticDocumentation\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter31\DiagrammaticDocumentation\DiagrammaticDocumentation\obj\Debug\DiagrammaticDocumentation.dll
+C:\BegVCSharp\Chapter31\DiagrammaticDocumentation\DiagrammaticDocumentation\obj\Debug\DiagrammaticDocumentation.pdb

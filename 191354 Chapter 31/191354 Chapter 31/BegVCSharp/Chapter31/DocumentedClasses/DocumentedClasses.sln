@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentedClasses", "DocumentedClasses\DocumentedClasses.csproj", "{F994DFE8-650F-419B-854B-96BD9A372739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentedClassesClient", "DocumentedClassesClient\DocumentedClassesClient.csproj", "{999CE1BF-D750-406E-B55C-EC916BD3D9A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F994DFE8-650F-419B-854B-96BD9A372739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F994DFE8-650F-419B-854B-96BD9A372739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F994DFE8-650F-419B-854B-96BD9A372739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F994DFE8-650F-419B-854B-96BD9A372739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999CE1BF-D750-406E-B55C-EC916BD3D9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999CE1BF-D750-406E-B55C-EC916BD3D9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999CE1BF-D750-406E-B55C-EC916BD3D9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999CE1BF-D750-406E-B55C-EC916BD3D9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

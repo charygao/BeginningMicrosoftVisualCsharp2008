@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelTextbox", "LabelTextbox.csproj", "{1309E315-BBAE-4F05-BA02-0DFEAF1CFCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelTextboxTest", "LabelTextboxTest\LabelTextboxTest.csproj", "{5B032D08-1FE8-4CF0-AAEA-679BDFFE1A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1309E315-BBAE-4F05-BA02-0DFEAF1CFCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1309E315-BBAE-4F05-BA02-0DFEAF1CFCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1309E315-BBAE-4F05-BA02-0DFEAF1CFCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1309E315-BBAE-4F05-BA02-0DFEAF1CFCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B032D08-1FE8-4CF0-AAEA-679BDFFE1A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B032D08-1FE8-4CF0-AAEA-679BDFFE1A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B032D08-1FE8-4CF0-AAEA-679BDFFE1A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B032D08-1FE8-4CF0-AAEA-679BDFFE1A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

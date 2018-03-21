@@ -1,0 +1,5 @@
+C:\BegVCSharp\Chapter26\26-7-QueryComplexObjects\bin\Debug\26-7-QueryComplexObjects.exe
+C:\BegVCSharp\Chapter26\26-7-QueryComplexObjects\bin\Debug\26-7-QueryComplexObjects.pdb
+C:\BegVCSharp\Chapter26\26-7-QueryComplexObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter26\26-7-QueryComplexObjects\obj\Debug\26-7-QueryComplexObjects.exe
+C:\BegVCSharp\Chapter26\26-7-QueryComplexObjects\obj\Debug\26-7-QueryComplexObjects.pdb

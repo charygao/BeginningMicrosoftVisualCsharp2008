@@ -1,0 +1,10 @@
+C:\Users\Karli\AppData\Local\Temporary Projects\SimpleLoopScope\bin\Debug\SimpleLoopScope.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\SimpleLoopScope\bin\Debug\SimpleLoopScope.pdb
+C:\Users\Karli\AppData\Local\Temporary Projects\SimpleLoopScope\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karli\AppData\Local\Temporary Projects\SimpleLoopScope\obj\Debug\SimpleLoopScope.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\SimpleLoopScope\obj\Debug\SimpleLoopScope.pdb
+C:\BegVCSharp\Chapter06\SimpleLoopScope\SimpleLoopScope\obj\Debug\SimpleLoopScope.exe
+C:\BegVCSharp\Chapter06\SimpleLoopScope\SimpleLoopScope\obj\Debug\SimpleLoopScope.pdb
+C:\BegVCSharp\Chapter06\SimpleLoopScope\SimpleLoopScope\bin\Debug\SimpleLoopScope.exe
+C:\BegVCSharp\Chapter06\SimpleLoopScope\SimpleLoopScope\bin\Debug\SimpleLoopScope.pdb
+C:\BegVCSharp\Chapter06\SimpleLoopScope\SimpleLoopScope\obj\Debug\ResolveAssemblyReference.cache

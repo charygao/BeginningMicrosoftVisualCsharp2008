@@ -1,0 +1,7 @@
+obj\Debug\FindingData.exe
+obj\Debug\FindingData.pdb
+.\bin\Debug\FindingData.exe
+.\bin\Debug\FindingData.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FindingData.Properties.Resources.resources
+obj\Debug\FindingData.csproj.GenerateResource.Cache

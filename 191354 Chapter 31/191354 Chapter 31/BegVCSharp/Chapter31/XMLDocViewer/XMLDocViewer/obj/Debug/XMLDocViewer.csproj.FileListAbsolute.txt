@@ -1,0 +1,5 @@
+C:\BegVCSharp\Chapter31\XMLDocViewer\XMLDocViewer\bin\Debug\XMLDocViewer.exe
+C:\BegVCSharp\Chapter31\XMLDocViewer\XMLDocViewer\bin\Debug\XMLDocViewer.pdb
+C:\BegVCSharp\Chapter31\XMLDocViewer\XMLDocViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter31\XMLDocViewer\XMLDocViewer\obj\Debug\XMLDocViewer.exe
+C:\BegVCSharp\Chapter31\XMLDocViewer\XMLDocViewer\obj\Debug\XMLDocViewer.pdb

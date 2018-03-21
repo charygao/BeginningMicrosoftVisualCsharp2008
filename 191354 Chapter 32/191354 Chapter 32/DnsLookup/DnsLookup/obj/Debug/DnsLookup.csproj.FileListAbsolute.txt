@@ -1,0 +1,10 @@
+c:\BegVCSharp\Chapter31\DnsLookup\DnsLookup\bin\Debug\DnsLookup.exe
+c:\BegVCSharp\Chapter31\DnsLookup\DnsLookup\bin\Debug\DnsLookup.pdb
+c:\BegVCSharp\Chapter31\DnsLookup\DnsLookup\obj\Debug\ResolveAssemblyReference.cache
+c:\BegVCSharp\Chapter31\DnsLookup\DnsLookup\obj\Debug\DnsLookup.exe
+c:\BegVCSharp\Chapter31\DnsLookup\DnsLookup\obj\Debug\DnsLookup.pdb
+C:\BegVCSharp\Chapter32\DnsLookup\DnsLookup\obj\Debug\DnsLookup.exe
+C:\BegVCSharp\Chapter32\DnsLookup\DnsLookup\obj\Debug\DnsLookup.pdb
+C:\BegVCSharp\Chapter32\DnsLookup\DnsLookup\bin\Debug\DnsLookup.exe
+C:\BegVCSharp\Chapter32\DnsLookup\DnsLookup\bin\Debug\DnsLookup.pdb
+C:\BegVCSharp\Chapter32\DnsLookup\DnsLookup\obj\Debug\ResolveAssemblyReference.cache

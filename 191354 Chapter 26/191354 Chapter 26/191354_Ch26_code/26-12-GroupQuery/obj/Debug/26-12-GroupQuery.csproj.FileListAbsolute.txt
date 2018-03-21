@@ -1,0 +1,5 @@
+C:\BegVCSharp\Chapter26\26-12-GroupQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter26\26-12-GroupQuery\bin\Debug\26-12-GroupQuery.exe
+C:\BegVCSharp\Chapter26\26-12-GroupQuery\bin\Debug\26-12-GroupQuery.pdb
+C:\BegVCSharp\Chapter26\26-12-GroupQuery\obj\Debug\26-12-GroupQuery.exe
+C:\BegVCSharp\Chapter26\26-12-GroupQuery\obj\Debug\26-12-GroupQuery.pdb

@@ -1,0 +1,5 @@
+C:\BegVCSharp\Chapter26\26-14-FirstOrDefault\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter26\26-14-FirstOrDefault\bin\Debug\26-14-FirstOrDefault.exe
+C:\BegVCSharp\Chapter26\26-14-FirstOrDefault\bin\Debug\26-14-FirstOrDefault.pdb
+C:\BegVCSharp\Chapter26\26-14-FirstOrDefault\obj\Debug\26-14-FirstOrDefault.exe
+C:\BegVCSharp\Chapter26\26-14-FirstOrDefault\obj\Debug\26-14-FirstOrDefault.pdb

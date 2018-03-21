@@ -1,0 +1,6 @@
+C:\BegVCSharp\Chapter31\DocumentedClasses\DocumentedClasses\bin\Debug\DocumentedClasses.dll
+C:\BegVCSharp\Chapter31\DocumentedClasses\DocumentedClasses\bin\Debug\DocumentedClasses.pdb
+C:\BegVCSharp\Chapter31\DocumentedClasses\DocumentedClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter31\DocumentedClasses\DocumentedClasses\obj\Debug\DocumentedClasses.dll
+C:\BegVCSharp\Chapter31\DocumentedClasses\DocumentedClasses\obj\Debug\DocumentedClasses.pdb
+C:\BegVCSharp\Chapter31\DocumentedClasses\DocumentedClasses\bin\Debug\DocumentedClasses.XML

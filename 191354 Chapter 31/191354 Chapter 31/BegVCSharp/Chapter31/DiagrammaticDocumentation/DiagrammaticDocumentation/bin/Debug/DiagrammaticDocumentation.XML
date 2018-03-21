@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>DiagrammaticDocumentation</name>
+  </assembly>
+  <members>
+    <member name="T:DiagrammaticDocumentation.DocumentedClass">
+      <summary>
+      This class allows you to factorize a number according to certain rules.
+      </summary>
+      <remarks>Use GetFactor() to factorize a number according to the rules defined by the IncludeOne and IncludeSelf properties.</remarks>
+    </member>
+    <member name="M:DiagrammaticDocumentation.DocumentedClass.GetFactors">
+      <summary>
+      Gets the factors of a number.
+      </summary>
+      <remarks>
+      This method is used to obtain the factors of a number, that is, all the numbers that the number can be divided by without leaving a remainder.
+      If IncludeOne and IncludeSelf are both true and the result returned consists of exactly two numbers (the number itself and one) then the number is prime.
+      </remarks>
+      <returns>Returns a long array.</returns>
+    </member>
+    <member name="P:DiagrammaticDocumentation.DocumentedClass.IncludeOne">
+      <summary>
+      Include 1 in GetFactors() result.
+      </summary>
+      <remarks>If this property is set to true, then GetFactors() will include 1 in its long[] result.</remarks>
+      <value>A bool value.</value>
+    </member>
+    <member name="P:DiagrammaticDocumentation.DocumentedClass.IncludeSelf">
+      <summary>
+      Include self in GetFactors() result.
+      </summary>
+      <remarks>If this property is set to true, then GetFactors() will include its numberToFactor parameter in its long[] result.</remarks>
+      <value>A bool value.</value>
+    </member>
+  </members>
+</doc>

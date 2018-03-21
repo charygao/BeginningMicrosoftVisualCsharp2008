@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch35Ex02", "Ch35Ex02\Ch35Ex02.csproj", "{01F038E2-1351-4672-840A-1E6C3009475E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch35Ex02Contracts", "Ch35Ex02Contracts\Ch35Ex02Contracts.csproj", "{59DB0903-FF91-4240-B739-87D57C1677A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch35E02Client", "Ch35E02Client\Ch35E02Client.csproj", "{540CD209-C58B-4A63-9B58-DB68E48C52DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F038E2-1351-4672-840A-1E6C3009475E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F038E2-1351-4672-840A-1E6C3009475E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F038E2-1351-4672-840A-1E6C3009475E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F038E2-1351-4672-840A-1E6C3009475E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59DB0903-FF91-4240-B739-87D57C1677A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DB0903-FF91-4240-B739-87D57C1677A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DB0903-FF91-4240-B739-87D57C1677A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DB0903-FF91-4240-B739-87D57C1677A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540CD209-C58B-4A63-9B58-DB68E48C52DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540CD209-C58B-4A63-9B58-DB68E48C52DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540CD209-C58B-4A63-9B58-DB68E48C52DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540CD209-C58B-4A63-9B58-DB68E48C52DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

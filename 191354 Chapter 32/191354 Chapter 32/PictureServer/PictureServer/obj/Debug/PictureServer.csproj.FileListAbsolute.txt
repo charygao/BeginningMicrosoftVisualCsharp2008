@@ -1,0 +1,12 @@
+c:\BegVCSharp\Chapter31\PictureServer\PictureServer\obj\Debug\ResolveAssemblyReference.cache
+c:\BegVCSharp\Chapter31\PictureServer\PictureServer\bin\Debug\PictureServer.exe.config
+c:\BegVCSharp\Chapter31\PictureServer\PictureServer\bin\Debug\PictureServer.exe
+c:\BegVCSharp\Chapter31\PictureServer\PictureServer\bin\Debug\PictureServer.pdb
+c:\BegVCSharp\Chapter31\PictureServer\PictureServer\obj\Debug\PictureServer.exe
+c:\BegVCSharp\Chapter31\PictureServer\PictureServer\obj\Debug\PictureServer.pdb
+C:\BegVCSharp\Chapter32\PictureServer\PictureServer\bin\Debug\PictureServer.exe.config
+C:\BegVCSharp\Chapter32\PictureServer\PictureServer\obj\Debug\PictureServer.exe
+C:\BegVCSharp\Chapter32\PictureServer\PictureServer\obj\Debug\PictureServer.pdb
+C:\BegVCSharp\Chapter32\PictureServer\PictureServer\bin\Debug\PictureServer.exe
+C:\BegVCSharp\Chapter32\PictureServer\PictureServer\bin\Debug\PictureServer.pdb
+C:\BegVCSharp\Chapter32\PictureServer\PictureServer\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+c:\BegVCSharp\Chapter31\WebClientDemo\WebClientDemo\bin\Debug\WebClientDemo.exe
+c:\BegVCSharp\Chapter31\WebClientDemo\WebClientDemo\bin\Debug\WebClientDemo.pdb
+c:\BegVCSharp\Chapter31\WebClientDemo\WebClientDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\BegVCSharp\Chapter31\WebClientDemo\WebClientDemo\obj\Debug\WebClientDemo.exe
+c:\BegVCSharp\Chapter31\WebClientDemo\WebClientDemo\obj\Debug\WebClientDemo.pdb
+C:\BegVCSharp\Chapter32\WebClientDemo\WebClientDemo\obj\Debug\WebClientDemo.exe
+C:\BegVCSharp\Chapter32\WebClientDemo\WebClientDemo\obj\Debug\WebClientDemo.pdb
+C:\BegVCSharp\Chapter32\WebClientDemo\WebClientDemo\bin\Debug\WebClientDemo.exe
+C:\BegVCSharp\Chapter32\WebClientDemo\WebClientDemo\bin\Debug\WebClientDemo.pdb
+C:\BegVCSharp\Chapter32\WebClientDemo\WebClientDemo\obj\Debug\ResolveAssemblyReference.cache

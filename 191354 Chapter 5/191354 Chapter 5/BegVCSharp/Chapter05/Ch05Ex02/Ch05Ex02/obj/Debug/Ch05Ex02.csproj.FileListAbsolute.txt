@@ -1,0 +1,10 @@
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch05Ex02\bin\Debug\Ch05Ex02.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch05Ex02\bin\Debug\Ch05Ex02.pdb
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch05Ex02\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch05Ex02\obj\Debug\Ch05Ex02.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch05Ex02\obj\Debug\Ch05Ex02.pdb
+C:\BegVCSharp\Chapter05\Ch05Ex02\Ch05Ex02\obj\Debug\Ch05Ex02.exe
+C:\BegVCSharp\Chapter05\Ch05Ex02\Ch05Ex02\obj\Debug\Ch05Ex02.pdb
+C:\BegVCSharp\Chapter05\Ch05Ex02\Ch05Ex02\bin\Debug\Ch05Ex02.exe
+C:\BegVCSharp\Chapter05\Ch05Ex02\Ch05Ex02\bin\Debug\Ch05Ex02.pdb
+C:\BegVCSharp\Chapter05\Ch05Ex02\Ch05Ex02\obj\Debug\ResolveAssemblyReference.cache

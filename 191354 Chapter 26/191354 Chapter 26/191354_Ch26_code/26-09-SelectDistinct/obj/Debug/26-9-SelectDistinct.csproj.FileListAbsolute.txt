@@ -1,0 +1,7 @@
+C:\BegVCSharp\Chapter26\26-9-SelectDistinct\bin\Debug\26-9-SelectDistinct.exe
+C:\BegVCSharp\Chapter26\26-9-SelectDistinct\bin\Debug\26-9-SelectDistinct.pdb
+C:\BegVCSharp\Chapter26\26-9-SelectDistinct\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter26\26-9-SelectDistinct\obj\Debug\26-9-SelectDistinct.exe
+C:\BegVCSharp\Chapter26\26-9-SelectDistinct\obj\Debug\26-9-SelectDistinct.pdb
+C:\BegVCSharp\Chapter26\26-09-SelectDistinct\obj\Debug\26-9-SelectDistinct.exe
+C:\BegVCSharp\Chapter26\26-09-SelectDistinct\obj\Debug\26-9-SelectDistinct.pdb

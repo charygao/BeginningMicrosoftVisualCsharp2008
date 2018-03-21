@@ -1,0 +1,9 @@
+c:\BegVCSharp\WebServices\WebServiceSample\SimpleClient\bin\Debug\SimpleClient.exe.config
+c:\BegVCSharp\WebServices\WebServiceSample\SimpleClient\bin\Debug\SimpleClient.exe
+c:\BegVCSharp\WebServices\WebServiceSample\SimpleClient\bin\Debug\SimpleClient.pdb
+c:\BegVCSharp\WebServices\WebServiceSample\SimpleClient\obj\Debug\ResolveAssemblyReference.cache
+c:\BegVCSharp\WebServices\WebServiceSample\SimpleClient\obj\Debug\SimpleClient.Form1.resources
+c:\BegVCSharp\WebServices\WebServiceSample\SimpleClient\obj\Debug\SimpleClient.Properties.Resources.resources
+c:\BegVCSharp\WebServices\WebServiceSample\SimpleClient\obj\Debug\SimpleClient.csproj.GenerateResource.Cache
+c:\BegVCSharp\WebServices\WebServiceSample\SimpleClient\obj\Debug\SimpleClient.exe
+c:\BegVCSharp\WebServices\WebServiceSample\SimpleClient\obj\Debug\SimpleClient.pdb

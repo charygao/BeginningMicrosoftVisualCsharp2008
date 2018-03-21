@@ -1,0 +1,7 @@
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch04Ex02\bin\Debug\Ch04Ex02.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch04Ex02\bin\Debug\Ch04Ex02.pdb
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch04Ex02\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch04Ex02\obj\Debug\Ch04Ex02.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch04Ex02\obj\Debug\Ch04Ex02.pdb
+C:\BegVCSharp\Chapter04\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.exe
+C:\BegVCSharp\Chapter04\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.pdb

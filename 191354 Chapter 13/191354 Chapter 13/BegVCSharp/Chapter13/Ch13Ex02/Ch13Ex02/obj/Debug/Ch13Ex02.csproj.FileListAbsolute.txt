@@ -1,0 +1,10 @@
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch13Ex02\bin\Debug\Ch13Ex02.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch13Ex02\bin\Debug\Ch13Ex02.pdb
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch13Ex02\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch13Ex02\obj\Debug\Ch13Ex02.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\Ch13Ex02\obj\Debug\Ch13Ex02.pdb
+C:\BegVCSharp\Chapter13\Ch13Ex02\Ch13Ex02\obj\Debug\Ch13Ex02.exe
+C:\BegVCSharp\Chapter13\Ch13Ex02\Ch13Ex02\obj\Debug\Ch13Ex02.pdb
+C:\BegVCSharp\Chapter13\Ch13Ex02\Ch13Ex02\bin\Debug\Ch13Ex02.exe
+C:\BegVCSharp\Chapter13\Ch13Ex02\Ch13Ex02\bin\Debug\Ch13Ex02.pdb
+C:\BegVCSharp\Chapter13\Ch13Ex02\Ch13Ex02\obj\Debug\ResolveAssemblyReference.cache

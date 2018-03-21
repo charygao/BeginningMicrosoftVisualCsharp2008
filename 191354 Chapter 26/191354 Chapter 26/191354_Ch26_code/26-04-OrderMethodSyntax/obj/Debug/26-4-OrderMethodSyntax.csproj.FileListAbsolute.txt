@@ -1,0 +1,5 @@
+C:\BegVCSharp\Chapter26\26-4-OrderMethodSyntax\bin\Debug\26-4-OrderMethodSyntax.exe
+C:\BegVCSharp\Chapter26\26-4-OrderMethodSyntax\bin\Debug\26-4-OrderMethodSyntax.pdb
+C:\BegVCSharp\Chapter26\26-4-OrderMethodSyntax\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter26\26-4-OrderMethodSyntax\obj\Debug\26-4-OrderMethodSyntax.exe
+C:\BegVCSharp\Chapter26\26-4-OrderMethodSyntax\obj\Debug\26-4-OrderMethodSyntax.pdb

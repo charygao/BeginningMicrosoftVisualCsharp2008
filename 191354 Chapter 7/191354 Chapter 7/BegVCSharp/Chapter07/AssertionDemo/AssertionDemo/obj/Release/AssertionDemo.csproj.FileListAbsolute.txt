@@ -1,0 +1,10 @@
+C:\Users\Karli\AppData\Local\Temporary Projects\AssertionDemo\bin\Release\AssertionDemo.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\AssertionDemo\bin\Release\AssertionDemo.pdb
+C:\Users\Karli\AppData\Local\Temporary Projects\AssertionDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Karli\AppData\Local\Temporary Projects\AssertionDemo\obj\Release\AssertionDemo.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\AssertionDemo\obj\Release\AssertionDemo.pdb
+C:\BegVCSharp\Chapter07\AssertionDemo\AssertionDemo\obj\Release\AssertionDemo.exe
+C:\BegVCSharp\Chapter07\AssertionDemo\AssertionDemo\obj\Release\AssertionDemo.pdb
+C:\BegVCSharp\Chapter07\AssertionDemo\AssertionDemo\bin\Release\AssertionDemo.exe
+C:\BegVCSharp\Chapter07\AssertionDemo\AssertionDemo\bin\Release\AssertionDemo.pdb
+C:\BegVCSharp\Chapter07\AssertionDemo\AssertionDemo\obj\Release\ResolveAssemblyReference.cache

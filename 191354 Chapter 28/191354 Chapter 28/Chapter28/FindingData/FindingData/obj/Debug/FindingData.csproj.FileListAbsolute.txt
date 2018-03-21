@@ -1,0 +1,14 @@
+C:\BegVCSharp\FindingData\FindingData\bin\Debug\FindingData.exe
+C:\BegVCSharp\FindingData\FindingData\bin\Debug\FindingData.pdb
+C:\BegVCSharp\FindingData\FindingData\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\FindingData\FindingData\obj\Debug\FindingData.Properties.Resources.resources
+C:\BegVCSharp\FindingData\FindingData\obj\Debug\FindingData.csproj.GenerateResource.Cache
+C:\BegVCSharp\FindingData\FindingData\obj\Debug\FindingData.exe
+C:\BegVCSharp\FindingData\FindingData\obj\Debug\FindingData.pdb
+C:\BegVCSharp\ch28\FindingData\FindingData\obj\Debug\FindingData.exe
+C:\BegVCSharp\ch28\FindingData\FindingData\obj\Debug\FindingData.pdb
+C:\BegVCSharp\ch28\FindingData\FindingData\bin\Debug\FindingData.exe
+C:\BegVCSharp\ch28\FindingData\FindingData\bin\Debug\FindingData.pdb
+C:\BegVCSharp\ch28\FindingData\FindingData\obj\Debug\ResolveAssemblyReference.cache
+C:\BegVCSharp\ch28\FindingData\FindingData\obj\Debug\FindingData.Properties.Resources.resources
+C:\BegVCSharp\ch28\FindingData\FindingData\obj\Debug\FindingData.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+   <element name="books">
+      <complexType>
+         <choice maxOccurs="unbounded">
+            <element name="book">
+               <complexType>
+                  <sequence>
+                     <element name="title" />
+                     <element name="author" />
+                     <element name="code" />
+                  </sequence>
+               </complexType>
+            </element>
+         </choice>
+         <attribute name="schemalocation" />
+      </complexType>
+   </element>
+</schema>

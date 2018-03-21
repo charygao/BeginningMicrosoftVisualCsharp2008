@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch10CardLib", "Ch10CardLib\Ch10CardLib.csproj", "{D6E0EDC2-109B-41AD-9AFB-FCEC6E1CB835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch10CardClient", "Ch10CardClient\Ch10CardClient.csproj", "{A0047C49-F082-4A15-8288-69E2047B5DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E0EDC2-109B-41AD-9AFB-FCEC6E1CB835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E0EDC2-109B-41AD-9AFB-FCEC6E1CB835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E0EDC2-109B-41AD-9AFB-FCEC6E1CB835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E0EDC2-109B-41AD-9AFB-FCEC6E1CB835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0047C49-F082-4A15-8288-69E2047B5DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0047C49-F082-4A15-8288-69E2047B5DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0047C49-F082-4A15-8288-69E2047B5DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0047C49-F082-4A15-8288-69E2047B5DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

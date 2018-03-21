@@ -1,0 +1,3 @@
+We have specialized in helping developers and architects create distributed applications which perform and scale as necessary. Our clients work in some of the most challenging environments of software development today.
+
+We have recognized in the past that a short period - maybe only a few days - of additional support, training or reviewing in the early phases of a project can make a big difference for its success. In the past five years we have helped a number of different projects to start quicker and to avoid critical problems right from the start.

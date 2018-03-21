@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DocumentedClasses</name>
+    </assembly>
+    <members>
+        <member name="T:DocumentedClasses.Sprinkler">
+            <summary>
+            <c>Sprinkler</c> object. See <see cref="T:DocumentedClasses.GardenContent"/> for member details.
+            </summary>
+        </member>
+        <member name="T:DocumentedClasses.Utility">
+            <summary>
+            Abstract class representing a utility.
+            </summary>
+        </member>
+        <member name="T:DocumentedClasses.GardenContent">
+            <summary>
+            Base class for garden contents.
+            </summary>
+            <remarks>
+            <para>
+            All garden contents have the basic properties <see cref="P:DocumentedClasses.GardenContent.XPos"/>
+            and <see cref="P:DocumentedClasses.GardenContent.YPos"/> specifying position, and the readonly 
+            properties <see cref="P:DocumentedClasses.GardenContent.Width"/> and 
+            <see cref="P:DocumentedClasses.GardenContent.Depth"/> specifying dimensions.
+            </para>
+            <para>
+            An ASCII representation of the object can be obtained by overrides of the 
+            <see cref="M:DocumentedClasses.GardenContent.GetPlan"/> method.
+            </para>
+            </remarks>
+            <seealso cref="T:DocumentedClasses.Garden"/>
+        </member>
+        <member name="M:DocumentedClasses.GardenContent.#ctor">
+            <summary>
+            Default Constructor
+            </summary>
+        </member>
+        <member name="M:DocumentedClasses.GardenContent.GetPlan">
+            <summary>
+            Obtains a <see langword="char"/> array representing how the object will look in a garden plan, 
+            using a simple ASCII representation.
+            </summary>
+            <returns>
+            returns a <see langword="char"/> array, where the dimensions of the array are 
+            determined by the <see cref="P:DocumentedClasses.GardenContent.Width">Width</see> 
+            and <see cref="P:DocumentedClasses.GardenContent.Depth">Depth</see> properties.
+            </returns>
+        </member>
+        <member name="P:DocumentedClasses.GardenContent.XPos">
+            <summary>
+            x position of the object.
+            </summary>
+            <value>An <see langword="int" /> value.</value>
+        </member>
+        <member name="P:DocumentedClasses.GardenContent.YPos">
+            <summary>
+            y position of the object.
+            </summary>
+            <value>An <see langword="int" /> value.</value>
+        </member>
+        <member name="P:DocumentedClasses.GardenContent.Width">
+            <summary>
+            Width of the object (size on x-axis).
+            </summary>
+            <value>An <see langword="int" /> value.</value>
+        </member>
+        <member name="P:DocumentedClasses.GardenContent.Depth">
+            <summary>
+            Depth of the object (size on y-axis).
+            </summary>
+            <value>An <see langword="int" /> value.</value>
+        </member>
+        <member name="P:DocumentedClasses.GardenContent.Plan">
+            <summary>
+            Internal implementation for <see cref="M:DocumentedClasses.GardenContent.GetPlan"/>.
+            </summary>
+            <returns>
+            returns a <see langword="char"/> array, where the dimensions of the array are 
+            determined by the <see cref="P:DocumentedClasses.GardenContent.Width">Width</see> 
+            and <see cref="P:DocumentedClasses.GardenContent.Depth">Depth</see> properties.
+            </returns>
+        </member>
+        <member name="M:DocumentedClasses.Sprinkler.#ctor(System.Int32,System.Int32)">
+            <summary>
+            <c>Sprinkler</c> constructor.
+            </summary>
+            <param name="x">x position of <c>Sprinkler</c> object.</param>
+            <param name="y">y position of <c>Sprinkler</c> object.</param>
+        </member>
+        <member name="P:DocumentedClasses.Sprinkler.Plan">
+            <summary>
+            Internal implementation for <see cref="M:DocumentedClasses.GardenContent.GetPlan"/>.
+            </summary>
+            <returns>
+            returns a <see langword="char"/> array, where the dimensions of the array are 
+            determined by the <see cref="P:DocumentedClasses.GardenContent.Width">Width</see> 
+            and <see cref="P:DocumentedClasses.GardenContent.Depth">Depth</see> properties.
+            </returns>
+        </member>
+        <member name="T:DocumentedClasses.Ornamentation">
+            <summary>
+            Abstract class representing garden ornamentation.
+            </summary>
+        </member>
+        <member name="T:DocumentedClasses.Plant">
+            <summary>
+            Abstract class representing a plant.
+            </summary>
+        </member>
+        <member name="T:DocumentedClasses.Bench">
+            <summary>
+            <c>Bench</c> object. See <see cref="T:DocumentedClasses.GardenContent"/> for member details.
+            </summary>
+        </member>
+        <member name="M:DocumentedClasses.Bench.#ctor(System.Int32,System.Int32)">
+            <summary>
+            <c>Bench</c> constructor.
+            </summary>
+            <param name="x">x position of <c>Bench</c> object.</param>
+            <param name="y">y position of <c>Bench</c> object.</param>
+        </member>
+        <member name="P:DocumentedClasses.Bench.Plan">
+            <summary>
+            Internal implementation for <see cref="M:DocumentedClasses.GardenContent.GetPlan"/>.
+            </summary>
+            <returns>
+            returns a <see langword="char"/> array, where the dimensions of the array are 
+            determined by the <see cref="P:DocumentedClasses.GardenContent.Width">Width</see> 
+            and <see cref="P:DocumentedClasses.GardenContent.Depth">Depth</see> properties.
+            </returns>
+        </member>
+        <member name="T:DocumentedClasses.Bush">
+            <summary>
+            <c>Bush</c> object. See <see cref="T:DocumentedClasses.GardenContent"/> for member details.
+            </summary>
+        </member>
+        <member name="M:DocumentedClasses.Bush.#ctor(System.Int32,System.Int32)">
+            <summary>
+            <c>Bush</c> constructor.
+            </summary>
+            <param name="x">x position of <c>Bush</c> object.</param>
+            <param name="y">y position of <c>Bush</c> object.</param>
+        </member>
+        <member name="P:DocumentedClasses.Bush.Plan">
+            <summary>
+            Internal implementation for <see cref="M:DocumentedClasses.GardenContent.GetPlan"/>.
+            </summary>
+            <returns>
+            returns a <see langword="char"/> array, where the dimensions of the array are 
+            determined by the <see cref="P:DocumentedClasses.GardenContent.Width">Width</see> 
+            and <see cref="P:DocumentedClasses.GardenContent.Depth">Depth</see> properties.
+            </returns>
+        </member>
+        <member name="T:DocumentedClasses.Flower">
+            <summary>
+            <c>Flower</c> object. See <see cref="T:DocumentedClasses.GardenContent"/> for member details.
+            </summary>
+        </member>
+        <member name="M:DocumentedClasses.Flower.#ctor(System.Int32,System.Int32)">
+            <summary>
+            <c>Flower</c> constructor.
+            </summary>
+            <param name="x">x position of <c>Flower</c> object.</param>
+            <param name="y">y position of <c>Flower</c> object.</param>
+        </member>
+        <member name="P:DocumentedClasses.Flower.Plan">
+            <summary>
+            Internal implementation for <see cref="M:DocumentedClasses.GardenContent.GetPlan"/>.
+            </summary>
+            <returns>
+            returns a <see langword="char"/> array, where the dimensions of the array are 
+            determined by the <see cref="P:DocumentedClasses.GardenContent.Width">Width</see> 
+            and <see cref="P:DocumentedClasses.GardenContent.Depth">Depth</see> properties.
+            </returns>
+        </member>
+        <member name="T:DocumentedClasses.Tree">
+            <summary>
+            <c>Tree</c> object. See <see cref="T:DocumentedClasses.GardenContent"/> for member details.
+            </summary>
+        </member>
+        <member name="M:DocumentedClasses.Tree.#ctor(System.Int32,System.Int32)">
+            <summary>
+            <c>Tree</c> constructor.
+            </summary>
+            <param name="x">x position of <c>Tree</c> object.</param>
+            <param name="y">y position of <c>Tree</c> object.</param>
+        </member>
+        <member name="P:DocumentedClasses.Tree.Plan">
+            <summary>
+            Internal implementation for <see cref="M:DocumentedClasses.GardenContent.GetPlan"/>.
+            </summary>
+            <returns>
+            returns a <see langword="char"/> array, where the dimensions of the array are 
+            determined by the <see cref="P:DocumentedClasses.GardenContent.Width">Width</see> 
+            and <see cref="P:DocumentedClasses.GardenContent.Depth">Depth</see> properties.
+            </returns>
+        </member>
+        <member name="T:DocumentedClasses.Garden">
+            <summary>
+            Class representing a garden, and the contents of that garden.
+            </summary>
+            <remarks>
+            <para>
+            Use the <see cref="M:DocumentedClasses.Garden.Add(DocumentedClasses.GardenContent)"/> method to add contents, 
+            which must inherit from <see cref="T:DocumentedClasses.GardenContent"/>.
+            </para>
+            <para>
+            Once contents have been added the garden can be visualised using the 
+            <see cref="M:DocumentedClasses.Garden.GetPlan"/> method.
+            </para>
+            <para>
+            Suitable classes for adding include:
+            <list type="table">
+            <listheader>
+            <term>Class</term>
+            <description>Description</description>
+            </listheader>
+            <item>
+            <term><see cref="T:DocumentedClasses.Flower"/></term>
+            <description>Represents a flower, size 1x1.</description>
+            </item>
+            <item>
+            <term><see cref="T:DocumentedClasses.Tree"/></term>
+            <description>Represents a tree, size 2x2.</description>
+            </item>
+            <item>
+            <term><see cref="T:DocumentedClasses.Bush"/></term>
+            <description>Represents a bush, size 2x2.</description>
+            </item>
+            <item>
+            <term><see cref="T:DocumentedClasses.Sprinkler"/></term>
+            <description>Represents a sprinkler, size 1x1.</description>
+            </item>
+            <item>
+            <term><see cref="T:DocumentedClasses.Statue"/></term>
+            <description>Represents a statue, size 1x1.</description>
+            </item>
+            <item>
+            <term><see cref="T:DocumentedClasses.Bench"/></term>
+            <description>Represents a bench, size 5x2.</description>
+            </item>
+            </list>
+            </para>
+            </remarks>
+            <example>
+            The following code adds a flower to the middle of a garden:
+            <code>
+            Garden myGarden = new Garden(11, 11);
+            Garden.Add(new Flower(5, 5));
+            </code>
+            </example>
+            <exception cref="T:System.ArgumentException">This exception is thrown if an object is added and doesn't fit in the garden.</exception>
+            <seealso cref="T:DocumentedClasses.GardenContent"/>
+        </member>
+        <member name="M:DocumentedClasses.Garden.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Constructor that sets the dimensions of the <c>Garden</c> object.
+            </summary>
+            <param name="gardenWidth">Width of the <c>Garden</c> object (size on x-axis).</param>
+            <param name="gardenDepth">Depth of the <c>Garden</c> object (size on y-axis).</param>
+        </member>
+        <member name="M:DocumentedClasses.Garden.Add(DocumentedClasses.GardenContent)">
+            <summary>
+            Adds an object to the garden.
+            </summary>
+            <param name="newContent">The object to add, which must inherit from <see cref="T:DocumentedClasses.GardenContent"/>.</param>
+        </member>
+        <member name="M:DocumentedClasses.Garden.Remove(DocumentedClasses.GardenContent)">
+            <summary>
+            Removes an object from the garden.
+            </summary>
+            <param name="oldContent">The object to add, which must inherit from <see cref="T:DocumentedClasses.GardenContent"/>.</param>
+        </member>
+        <member name="M:DocumentedClasses.Garden.Contains(DocumentedClasses.GardenContent)">
+            <summary>
+            Determines whether an object is in the garden.
+            </summary>
+            <param name="content">The object to look for, which must inherit from <see cref="T:DocumentedClasses.GardenContent"/>.</param>
+            <returns>A <see langword="bool"/> value, stating whether the object is in the garden.</returns>
+        </member>
+        <member name="M:DocumentedClasses.Garden.GetChar(System.Int32,System.Int32)">
+            <summary>
+            Obtains the ASCII character at location (x, y) in the garden plan, taking garden objects into account.
+            </summary>
+            <returns>returns a <see langword="char"/> array, where the dimensions of the array are determined by the 
+            <seealso cref="P:DocumentedClasses.Garden.Width">Width</seealso> and <seealso cref="P:DocumentedClasses.Garden.Width">Depth</seealso> properties.</returns>
+            <param name="x">x position to examine.</param>
+            <param name="y">y position to examine.</param>
+        </member>
+        <member name="M:DocumentedClasses.Garden.GetPlan">
+            <summary>
+            Obtains a <see langword="char" /> array showing the garden and all its contents. 
+            Individual objects are shown according to their ASCII representation.
+            </summary>
+        </member>
+        <member name="P:DocumentedClasses.Garden.Width">
+            <summary>
+            Width of the garden (size on x-axis).
+            </summary>
+            <value>
+            An <see langword="int" /> value.
+            </value>
+        </member>
+        <member name="P:DocumentedClasses.Garden.Depth">
+            <summary>
+            Depth of the garden (size on y-axis).
+            </summary>
+            <value>
+            An <see langword="int" /> value.
+            </value>
+        </member>
+        <member name="T:DocumentedClasses.Statue">
+            <summary>
+            <c>Statue</c> object. See <see cref="T:DocumentedClasses.GardenContent"/> for member details.
+            </summary>
+        </member>
+        <member name="M:DocumentedClasses.Statue.#ctor(System.Int32,System.Int32)">
+            <summary>
+            <c>Statue</c> constructor.
+            </summary>
+            <param name="x">x position of <c>Statue</c> object.</param>
+            <param name="y">y position of <c>Statue</c> object.</param>
+        </member>
+        <member name="P:DocumentedClasses.Statue.Plan">
+            <summary>
+            Internal implementation for <see cref="M:DocumentedClasses.GardenContent.GetPlan"/>.
+            </summary>
+            <returns>
+            returns a <see langword="char"/> array, where the dimensions of the array are 
+            determined by the <see cref="P:DocumentedClasses.GardenContent.Width">Width</see> 
+            and <see cref="P:DocumentedClasses.GardenContent.Depth">Depth</see> properties.
+            </returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,9 @@
+c:\BegVCSharp\WebServices\WebServiceSample\WeatherClient\bin\Debug\WeatherClient.exe.config
+c:\BegVCSharp\WebServices\WebServiceSample\WeatherClient\obj\Debug\ResolveAssemblyReference.cache
+c:\BegVCSharp\WebServices\WebServiceSample\WeatherClient\obj\Debug\WeatherClient.Form1.resources
+c:\BegVCSharp\WebServices\WebServiceSample\WeatherClient\obj\Debug\WeatherClient.Properties.Resources.resources
+c:\BegVCSharp\WebServices\WebServiceSample\WeatherClient\obj\Debug\WeatherClient.csproj.GenerateResource.Cache
+c:\BegVCSharp\WebServices\WebServiceSample\WeatherClient\bin\Debug\WeatherClient.exe
+c:\BegVCSharp\WebServices\WebServiceSample\WeatherClient\bin\Debug\WeatherClient.pdb
+c:\BegVCSharp\WebServices\WebServiceSample\WeatherClient\obj\Debug\WeatherClient.exe
+c:\BegVCSharp\WebServices\WebServiceSample\WeatherClient\obj\Debug\WeatherClient.pdb

@@ -1,0 +1,10 @@
+C:\Users\Karli\AppData\Local\Temporary Projects\ObjectStore\bin\Debug\ObjectStore.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\ObjectStore\bin\Debug\ObjectStore.pdb
+C:\Users\Karli\AppData\Local\Temporary Projects\ObjectStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karli\AppData\Local\Temporary Projects\ObjectStore\obj\Debug\ObjectStore.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\ObjectStore\obj\Debug\ObjectStore.pdb
+C:\BegVCSharp\Chapter24\ObjectStore\ObjectStore\obj\Debug\ObjectStore.exe
+C:\BegVCSharp\Chapter24\ObjectStore\ObjectStore\obj\Debug\ObjectStore.pdb
+C:\BegVCSharp\Chapter24\ObjectStore\ObjectStore\bin\Debug\ObjectStore.exe
+C:\BegVCSharp\Chapter24\ObjectStore\ObjectStore\bin\Debug\ObjectStore.pdb
+C:\BegVCSharp\Chapter24\ObjectStore\ObjectStore\obj\Debug\ResolveAssemblyReference.cache
